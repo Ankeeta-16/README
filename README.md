@@ -10,7 +10,7 @@
 
   <!-- ✅ Banner Section -->
   <div class="banner">
-    <img src="1732447558687.jpeg" alt="Ankeeta Dhara Banner" width="100%">
+    <img src="copy.jpg" alt="Ankeeta Dhara Banner" width="100%">
   </div>
 
   <header>
